@@ -1,1 +1,9 @@
-
+//
+Task 1:  The program should find all the triangular numbers that are within a range specified by 
+the user and print them. For example, if the user chooses to print such numbers in the [1, 40] 
+range, the program should print 1, 3, 6, 10, 15, 21, 28, 36. The program should print next to each 
+triangle number if it is odd or even and also give two separate counts of how many odd and even 
+triangle numbers were found. In addition, the program should find and print two products: 1) the 
+product of all the odd triangular numbers and 2) the products of the even triangular numbers 
+found within the range given.
+//
