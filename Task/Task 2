@@ -1,1 +1,10 @@
+//Task 2:
 
+Find all the numbers that can be written as the product of two natural numbers in 
+succession and print them in increasing order. The calculations should start from an initial value 
+chosen by the user (For example, if the user decides to start from 5, the first number that should 
+be in your output is 30 as 5*6=30, where 5 and 6 are two natural numbers in succession). The user 
+should specify how many such numbers they want to print. For each number found the program 
+should also check/state whether the number found is a factor of a positive integer x, where x is 
+another input specified by the user.   
+//
