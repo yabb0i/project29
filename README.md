@@ -6,7 +6,7 @@ COMP1236 Logic Assignment
 - kristopher
 
 "LINKS"
-- [full code](full code/bash code here)
+- [bash](full code/bash code here)
 
 - [Tasks](Task)
 
