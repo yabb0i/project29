@@ -1,4 +1,4 @@
-# project29
+# Project29
 COMP1236 Logic Assignment 
 
 
