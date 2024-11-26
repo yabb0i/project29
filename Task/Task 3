@@ -1,1 +1,12 @@
+//Task 3:
 
+Find the terms of a sequence given by the rule Term = an3 + bn + c, where a, b and c are 
+non-negative integers specified by the user and n is a natural number. This task should print a 
+limited amount of numbers in the sequence. The user should specify the range of the numbers to 
+be printed [n1, n2], where n1 represent the position of the first term, and n2 represents the position 
+of the last term the user chooses to print (for example, if the user chooses a=1, b=2 and c=0 in 
+the range [2,4] the program should print:  12, 33, 72). In addition, the program should print the 
+product of the first and the last number printed (in the example given this will be 864 since 
+864=12*72). Next to the product the program should print whether the product is a multiple of 
+number 4.
+//
