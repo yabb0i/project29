@@ -1,1 +1,20 @@
 # This is the full project
+
+#Password
+pass="App1"
+
+#promt to ask user for password
+read -p "Enter password: " code
+
+#attempt
+attempt=1
+
+#maxAttempt
+maxAttempt=3
+
+#Repeating password until password is true or attempt is maxed
+until [ $code = $pass ] || [ $attempt = $maxAttempt ]
+do
+                read -p "Enter password: " code
+                attempt=$[attempt + 1]
+done
